@@ -1,6 +1,6 @@
 .catalog:
-  name: "EEA RocketChat"
-  version: "v0.1-eea"
+  name: "Chat"
+  version: "v0.1-epiteck"
   description: "Have your own Slack like online chat, built with Meteor."
   minimum_rancher_version: v0.51.0
   questions:
@@ -8,7 +8,7 @@
       description: "This is the root URL for your rocketchat server."
       label: "Rocketchat root url"
       type: "string"
-      default: http://yourhost:3000
+      default: https://chat.local:3000
       required: true
     - variable: HUBOT_ROCKETCHAT_ROOM
       description: "Rocketchat room where hubot will post messages."
