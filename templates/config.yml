@@ -3,4 +3,6 @@ description: |
   projet tek
 version: 1.0
 category: educational
-maintainer: trachli_ilias
+maintainer: trachli ilias <trachli.ilias@gmail.com
+license : a
+projectURL: https://github.com/itrachli/cloud
