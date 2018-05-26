@@ -1,3 +1,4 @@
+version: '2'
 .catalog:
   name: "RocketChat"
   version: "v0.1-educaas"
@@ -7,4 +8,3 @@
   questions:
 
 
-rocketchat:
