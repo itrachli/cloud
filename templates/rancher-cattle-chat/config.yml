@@ -1,5 +1,5 @@
-name:RocketChat
+name: RocketChat
 description: |
   Have your own Slack like online chat, built with Meteor.
-version: v0.1-eea
+version: v0.1-tek
 category: Chat
