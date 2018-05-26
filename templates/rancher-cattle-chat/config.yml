@@ -1,8 +1,5 @@
-name: RocketChat
+name:RocketChat
 description: |
   Have your own Slack like online chat, built with Meteor.
-version: v0.1-educaas
+version: v0.1-eea
 category: Chat
-maintainer: trachli ilias <trachli.ilias@gmail.com
-license : a
-projectURL: https://github.com/itrachli/cloud
