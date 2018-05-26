@@ -1,4 +1,8 @@
-version: '0'
+version: '2'
+catalog:
+  name: "Chat"
+  version: "1.0.0"
+  description: "rocket chat"
 services:
   mongo:
     scale: 1
